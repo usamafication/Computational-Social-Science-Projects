@@ -1,0 +1,22 @@
+(base) usamafaheem@wifi-10-41-110-38 GitHub-Collaboration-Practice % cd
+(base) usamafaheem@wifi-10-41-110-38 ~ % git clone https://github.com/usamafication/Computational-Social-Science-Projects.git
+Cloning into 'Computational-Social-Science-Projects'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+Receiving objects: 100% (3/3), done.
+(base) usamafaheem@wifi-10-41-110-38 ~ % ls 
+Applications					Creative Cloud Files				Library						git-challenges
+CSS						Desktop						Movies						my-first-repo
+CSS-Challenge-3					Documents					Music						newdir
+Computational-Social-Science-Projects		Downloads					Pictures
+Computational-Social-Science-Training-Program	GitHub-Collaboration-Practice			Public
+(base) usamafaheem@wifi-10-41-110-38 ~ % cd Computational-Social-Science-Projects
+(base) usamafaheem@wifi-10-41-110-38 Computational-Social-Science-Projects % mkdir "Project 1"
+(base) usamafaheem@wifi-10-41-110-38 Computational-Social-Science-Projects % ls
+Project 1	README.md
+(base) usamafaheem@wifi-10-41-110-38 Computational-Social-Science-Projects % touch codeforUsama        
+(base) usamafaheem@wifi-10-41-110-38 Computational-Social-Science-Projects % vim codeforUsama
+(base) usamafaheem@wifi-10-41-110-38 Computational-Social-Science-Projects % git add *
+(base) usamafaheem@wifi-10-41-110-38 Computational-Social-Science-Projects % git commit -m "code added"
+(base) usamafaheem@wifi-10-41-110-38 Computational-Social-Science-Projects % git push
